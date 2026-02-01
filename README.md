@@ -1,16 +1,37 @@
 ## Hi there 👋
+Meu nome é Luciano Freitas sou programador front end realizando projetos com:
+<br>
+<br>
 
-<!--
-**lucianofreitas-dev/lucianofreitas-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="logo html" />
+- <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="logo css" />
+<br>
+Também estou iniciando meu apredizado em:
+<br>
+<br>
 
-Here are some ideas to get you started:
+-   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="logo javascript" />
+-   <img src="https://img.shields.io/badge/react%20os-0088CC?style=for-the-badge&logo=reactos&logoColor=white" alt="logo react" />
+<br>
+<br>
+## Connect with me
+<br>
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<p>
+  <a href="https://www.instagram.com/luciano.freitasoficial?utm_source=qr&igsh=djBtcHR0dDFia2Jq">
+  <img aling: "left" alt="imagem do instagran" width: "22px" src="https://www.flaticon.com/br/icone-gratis/instagram_1936319" />    
+  </a>
+  <a href="www.linkedin.com/in/lucianofreitas01">
+  <img  aling:"left" alt="linkedin" width:"22px" src="https://pt.pngtree.com/freepng/linkedin-social-media-icon-design-template-vector_3654838.html"/>
+    
+  </a>
+
+  
+</p>
+
+
+
+
+
