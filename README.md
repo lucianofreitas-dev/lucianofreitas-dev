@@ -1,34 +1,37 @@
-### Hi there 👋
-Meu nome é Luciano Freitas sou programador front end realizando projetos com:
-<br>
-<br>
-<img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="logo html" />
-<img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="logo css" />
-<br>
-Também estou iniciando meu apredizado em:
-<br>
-<br>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="logo javascript" />
-<img src="https://img.shields.io/badge/react%20os-0088CC?style=for-the-badge&logo=reactos&logoColor=white" alt="logo react" />
-<br>
-<br>
-### Connect with me
-<br>
-<br>
-<p>
-  <a href="https://www.instagram.com/luciano.freitasoficial?utm_source=qr&igsh=djBtcHR0dDFia2Jq">
-  <img aling: "left" alt="imagem do instagran" width: "22px" src="https://www.flaticon.com/br/icone-gratis/instagram_1936319" />    
-  </a>
-  <a href="www.linkedin.com/in/lucianofreitas01">
-  <img  aling:"left" alt="linkedin" width:"22px" src="https://pt.pngtree.com/freepng/linkedin-social-media-icon-design-template-vector_3654838.html"/>    
-  </a>  
-</p>
+### Olá 👋
 
-[![Luciano Freitas stats](https://github-readme-stats.vercel.app/api?username=lucianofreitas-dev)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucianofreitas-dev)](https://github.com/anuraghazra/github-readme-stats)
+Meu nome é **Luciano Freitas**, sou desenvolvedor Front‑end criando projetos com foco em HTML e CSS.
 
+---
 
+## Tecnologias
+<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
 
+---
 
+## Atualmente aprendendo
+- JavaScript avançado
+- React (fundamentos e hooks)
 
+---
 
+## Conecte-se comigo
+- Instagram: [@luciano.freitasoficial](https://www.instagram.com/luciano.freitasoficial/)
+- LinkedIn: [lucianofreitas01](https://www.linkedin.com/in/lucianofreitas01/)
+
+Você também pode usar os botões abaixo:
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luciano.freitasoficial/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucianofreitas01/)
+
+---
+
+## Estatísticas
+[![Luciano Freitas stats](https://github-readme-stats.vercel.app/api?username=lucianofreitas-dev&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucianofreitas-dev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+Se quiser que eu aplique essas mudanças diretamente no arquivo README.md do repositório (commit), posso fazer isso agora — quer que eu atualize o arquivo por você?
